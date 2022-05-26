@@ -1,0 +1,16 @@
+{
+  "name": "hydra",
+  "version": "1.0.0",
+  "description": "1.  Copy your media files and paste it in media folder",
+  "main": "fullscreen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rabbeg MEd ALi",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.10",
+    "videojs-playlist": "^5.0.0"
+  }
+}
